@@ -1,2 +1,2 @@
 # TestRepository
-Testing repository for IMBD data science course.
+Testing repository for IBM data science course.
